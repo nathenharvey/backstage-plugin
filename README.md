@@ -2,7 +2,7 @@
 
 Welcome to the [Okay](https://www.okayhq.com/) plugin!
 
-This plugin connects Backstage with your Okay account to visualize your team analytics. Embed dashboards (including DORA metrics) alongside your team or service pages.
+This plugin connects Backstage with your Okay account to visualize your team analytics. Embed dashboards (including [DORA metrics](https://dora.dev/guides/dora-metrics-four-keys/)) alongside your team or service pages.
 Create dashboards from any of your dev tools (including Github, Gitlab, Jira, CircleCI, Argo, Buildkite, Pagerduty, Rollbar, Sentry and dozens of others).
 Additionally send your own metrics with the Okay custom events endpoint.
 
